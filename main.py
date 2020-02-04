@@ -1,31 +1,4 @@
-# CREATE A SCRIPT WHICH CONVERTS TEXT TO PIG LATIN
-'''
-RULES:
-In words that begin with consonant sounds,
-the initial consonant or consonant cluster is moved to the end of the word,
-and "ay" is added, as in the following examples:
-beast ? east-bay
-dough ? ough-day
-happy ? appy-hay
-question ? estion-quay
-In words that begin with vowel sounds or silent consonants,
-the syllable "way" is simply added to the end of the word.
-In some variants, the syllable "ay" is added, without the "w" in front.
-Sometimes the vowel will be moved and followed by the syllable "hay".
-another? another-way or another-ay
-if? if-way or if-ay
-
-In compound words or words with two distinct syllables,
-each component word or syllable is sometimes transcribed separately.
-For example: birdhouse would be ird-bay-ouse-hay.
-
-
-string_cont[index]
-string_no_hyphen[index]
-'''
-
 user_input = input('> ')
-#user_input = user_input.split(' ')
 
 def translate(user_input):
     from txt import vowels,silent_cluster as silent
