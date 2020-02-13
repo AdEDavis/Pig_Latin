@@ -7,7 +7,6 @@ This Pig Latin translator accounts for all possible words including the most com
 I abided by the rules given on the http://piglatin.org website. 
 This software is more accurate than the translator provided on that website as their software does not account for compound words.
 
-
 PIG LATIN GUIDLINES:
 In words that begin with consonant sounds, the initial consonant or consonant cluster is moved to the end of the word. Then
 an "ay" is added, as in the following examples:
