@@ -9,21 +9,20 @@ This software is more accurate than the translator provided on that website as t
 
 
 PIG LATIN GUIDLINES:
-In words that begin with consonant sounds,
-the initial consonant or consonant cluster is moved to the end of the word,
-and "ay" is added, as in the following examples:
-beast ? east-bay
-dough ? ough-day
-happy ? appy-hay
-question ? estion-quay
+In words that begin with consonant sounds, the initial consonant or consonant cluster is moved to the end of the word. Then
+an "ay" is added, as in the following examples:
+beast --> east-bay
+dough --> ough-day
+happy --> appy-hay
+question --> estion-quay
+
 In words that begin with vowel sounds or silent consonants,
-the syllable "way" is simply added to the end of the word.
-In some variants, the syllable "ay" is added, without the "w" in front.
-Sometimes the vowel will be moved and followed by the syllable "hay".
-another? another-way or another-ay
-if? if-way or if-ay
+the syllable "way" is simply added to the end of the word
+Examples:
+if --> if-way
+another --> another-way
 
-In compound words or words with two distinct syllables,
-each component word or syllable is sometimes transcribed separately.
-For example: birdhouse would be ird-bay-ouse-hay.
-
+In compound words, each component word or syllable is transcribed separately.
+Examples: 
+birdhouse --> ird-bay-ouse-hay
+mailman --> ail-may an-may
