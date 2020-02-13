@@ -2,7 +2,7 @@
 
 [UPDATE FEB. 2020: This revision of the software works fine and simply asks the user for input to translate. I am currently working on update v.1.1.0 which will allow the user to input a file on their computer and translate the entire document. The only issue I've found with v.1.0.0 is that it does not account for punctuation.]
 
-This is the most accurate Pig Latin translator on the internet. It accounts for all possible words including the most commonly used compound words.
+This Pig Latin translator accounts for all possible words including the most commonly used compound words.
 
 I abided by the rules given on the http://piglatin.org website. 
 This software is more accurate than the translator provided on that website as their software does not account for compound words.
